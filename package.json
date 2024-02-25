@@ -35,7 +35,7 @@
   "dependencies": {
     "captains-log": "^2.0.3",
     "ejs": "^2.7.1",
-    "electron": "^6.0.10",
+    "electron": "^29.0.1",
     "haml": "^0.4.3",
     "pug": "^2.0.4"
   },
